@@ -8,6 +8,6 @@ public class UserPage {
 
     @RequestMapping("/user")
     public String printUserPageText() {
-        return "User: Plamen Kostov" + " Age: 18" + " From: Burgas";
+        return "User: ITIvanov18<br>" + " Age: 18<br>" + " From: Vulchi Dol<br>";
     }
 }

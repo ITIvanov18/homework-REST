@@ -8,6 +8,6 @@ public class ContactPage {
 
     @RequestMapping("/contact")
     public String printContactPageText() {
-        return "PKKostov18@codingburgas.bg";
+        return "ITIvanov18@codingburgas.bg";
     }
 }

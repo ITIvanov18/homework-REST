@@ -8,6 +8,6 @@ public class AboutPage {
 
     @RequestMapping("/about")
     public String printAboutPageText() {
-        return "divak";
+        return "manqche choveche";
     }
 }
